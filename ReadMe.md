@@ -48,9 +48,9 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rkDevguru47&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rkDevguru47&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkDevguru47&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rkDevguru47&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
