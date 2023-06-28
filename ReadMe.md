@@ -48,8 +48,8 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 # 📊 GitHub Stats:
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rkDevguru47&theme=synthwave&hide_border=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rkDevguru47&theme=synthwave&hide_border=true)
 
 
 ## 🏆 GitHub Trophies
