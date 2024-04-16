@@ -1,6 +1,6 @@
 Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rishu Kumar
 ===================================================================================================================================
-- 🔭 I’m currently working on **Web Development**<br><br>- 🌱 I’m currently learning **Next.js Svelte Rust Flutter-dev**<br><br>- 👯 I’m looking to collaborate on **SvelteKit**<br><br>- 🤝 I’m looking for help with **Svelte Dynamic-imports**<br><br>- 👨‍💻 All of my projects are available at [https://rishu47.vercel.app/](https://rishu47.vercel.app/)<br><br>- 💬 Ask me about **Vite Next Svelte Three.js IoT ML**<br><br>- 📫 How to reach me **rishukr0123@gmail.com**<br><br>- ⚡ Fun fact **I am a audiophile, {tech-phile} AMA Tech/HW Related**
+- 🔭 I’m currently working on **Web Development**<br><br>- 🌱 I’m currently learning **Next.js Svelte Rust Flutter-dev**<br><br>- 👯 I’m looking to collaborate on **SvelteKit**<br><br>- 🤝 I’m looking for help with **Svelte Dynamic-imports**<br><br>- 👨‍💻 All of my projects are available at [https://rishukr01.wixstudio.io/rk47](https://rishukr01.wixstudio.io/rk47)<br><br>- 💬 Ask me about **Vite Next Svelte Three.js IoT ML**<br><br>- 📫 How to reach me **rishukr0123@gmail.com**<br><br>- ⚡ Fun fact **I am a audiophile, {tech-phile} AMA Tech/HW Related**
 
 
 ## 🌐 Socials:
